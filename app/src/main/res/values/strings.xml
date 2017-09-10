@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Environment News App</string>
+
+    <!-- Text to display in the list when there are no news -->
+    <string name="no_news">No news found.</string>
+
+    <!-- Error message when there is no internet connectivity -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Settings Activity Title -->
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings For Page Size Preference -->
+    <string name="settings_page_size_key">page_size_key</string>
+    <string name="settings_page_size_default">30</string>
+
+    <!-- Strings For Query Keyword Preference-->
+    <string name="settings_query_key">query_key</string>
+    <string name="settings_query_default">Environment</string>
+
+    <!-- Labels for settings option -->
+    <string name="settings_query_label">Search Keyword:</string>
+    <string name="settings_page_size_label">Max Number of News:</string>
+
+</resources>

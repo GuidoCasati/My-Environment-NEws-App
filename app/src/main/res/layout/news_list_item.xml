@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/HeaderTwo"
+        style="@style/headerTwo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Environment" />
+
+    <TextView
+        android:id="@+id/HeaderOne"
+        style="@style/headerOne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Anno record di incendi e richieste di aiuto: mai cosi tante dal 2007" />
+
+    <TextView
+        android:id="@+id/Content"
+        style="@style/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="13/07/2017" />
+
+</LinearLayout>
+
+
